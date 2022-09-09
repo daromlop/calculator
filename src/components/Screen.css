@@ -1,0 +1,21 @@
+input[type="text"] {
+  height: 75px;
+  width: 90%;
+  background-color: #10111600;
+  border: 2px solid #363846;
+  border-radius: 10px;
+  color: #ffff;
+  text-align: right;
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+  padding-right: 10px;
+}
+
+input:focus,
+input:active,
+button:focus,
+button:active {
+  outline: none;
+}
